@@ -1,0 +1,11 @@
+{
+  "title": "Shareplate Food Sharing platform - Web",
+  "description": "Connect surplus food donors with those in need, reducing waste and fostering community support among students, restaurants, NGOs, and households.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
